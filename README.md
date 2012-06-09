@@ -1,4 +1,0 @@
-pwphrase
-========
-
-Random passphrase generator
